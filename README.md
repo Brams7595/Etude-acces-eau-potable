@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LOGODWFA.png" alt="Logo DWFA" width="250"/>
+  <img src="LOGODWFA.png" alt="Logo DWFA" width="400"/>
 </p>
 
 # 💧 Étude sur l’accès à l’eau potable – Projet DWFA
